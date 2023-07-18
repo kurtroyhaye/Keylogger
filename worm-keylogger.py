@@ -1,9 +1,3 @@
-#Author : Omri Hopson           620034478
-#Author : Kurtroye Aye          620044336
-#Author : Jordon Johnson        620043638
-#Author : Jade Miller           620057545
-#Author : Debrah-Ann Rosewelt   620039556
-
 
 #The purpose of this program is to record all the key strokes made
 #by the user then sends that file to an email address.
